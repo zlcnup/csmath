@@ -1,3 +1,3 @@
 # csmath
 Homeworks of csmath, all homeworks included.
-### [Polynomial Curve Fitting](curve_fitting.md)
+![curve_fitting](imgs/curve_fitting/1.png)
